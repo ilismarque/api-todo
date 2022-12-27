@@ -2,11 +2,12 @@
 <h1 align="center" >API Todo</h1>
 
 <p align="center">
-  <a href="#projeto">Projeto</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#requisitos-da-aplicação">Requisitos</a> •
-  <a href="#como-utilizar">Como utilizar</a> •
-  <a href="#rotas">Rotas</a>
+  <a href="#-projeto">Projeto</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-requisitos-da-aplicação">Requisitos</a> •
+  <a href="#-como-utilizar">Como utilizar</a> •
+  <a href="#-rotas">Rotas</a>
+  
 </p>
 
 ---
